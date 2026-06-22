@@ -1,0 +1,252 @@
+[
+  {
+    "customer_id": 1,
+    "region": "South",
+    "employment_type": null
+  },
+  {
+    "customer_id": 2,
+    "region": "West",
+    "employment_type": null
+  },
+  {
+    "customer_id": 3,
+    "region": "West",
+    "employment_type": null
+  },
+  {
+    "customer_id": 4,
+    "region": "West",
+    "employment_type": "Salaried"
+  },
+  {
+    "customer_id": 5,
+    "region": "South",
+    "employment_type": null
+  },
+  {
+    "customer_id": 6,
+    "region": "South",
+    "employment_type": "Unemployed"
+  },
+  {
+    "customer_id": 7,
+    "region": "West",
+    "employment_type": "Self-Employed"
+  },
+  {
+    "customer_id": 8,
+    "region": "South",
+    "employment_type": "Salaried"
+  },
+  {
+    "customer_id": 9,
+    "region": "East",
+    "employment_type": null
+  },
+  {
+    "customer_id": 10,
+    "region": "West",
+    "employment_type": "Self-Employed"
+  },
+  {
+    "customer_id": 11,
+    "region": "South",
+    "employment_type": null
+  },
+  {
+    "customer_id": 12,
+    "region": "West",
+    "employment_type": null
+  },
+  {
+    "customer_id": 13,
+    "region": "South",
+    "employment_type": "Unemployed"
+  },
+  {
+    "customer_id": 14,
+    "region": "South",
+    "employment_type": "Self-Employed"
+  },
+  {
+    "customer_id": 15,
+    "region": "South",
+    "employment_type": null
+  },
+  {
+    "customer_id": 16,
+    "region": "North",
+    "employment_type": null
+  },
+  {
+    "customer_id": 17,
+    "region": "West",
+    "employment_type": "Unemployed"
+  },
+  {
+    "customer_id": 18,
+    "region": "South",
+    "employment_type": null
+  },
+  {
+    "customer_id": 19,
+    "region": "South",
+    "employment_type": "Salaried"
+  },
+  {
+    "customer_id": 20,
+    "region": "West",
+    "employment_type": null
+  },
+  {
+    "customer_id": 21,
+    "region": "East",
+    "employment_type": null
+  },
+  {
+    "customer_id": 22,
+    "region": "South",
+    "employment_type": null
+  },
+  {
+    "customer_id": 23,
+    "region": "East",
+    "employment_type": "Self-Employed"
+  },
+  {
+    "customer_id": 24,
+    "region": "East",
+    "employment_type": null
+  },
+  {
+    "customer_id": 25,
+    "region": "East",
+    "employment_type": "Unemployed"
+  },
+  {
+    "customer_id": 26,
+    "region": "North",
+    "employment_type": null
+  },
+  {
+    "customer_id": 27,
+    "region": "South",
+    "employment_type": null
+  },
+  {
+    "customer_id": 28,
+    "region": "North",
+    "employment_type": null
+  },
+  {
+    "customer_id": 29,
+    "region": "West",
+    "employment_type": "Salaried"
+  },
+  {
+    "customer_id": 30,
+    "region": "East",
+    "employment_type": null
+  },
+  {
+    "customer_id": 31,
+    "region": "West",
+    "employment_type": null
+  },
+  {
+    "customer_id": 32,
+    "region": "North",
+    "employment_type": "Self-Employed"
+  },
+  {
+    "customer_id": 33,
+    "region": "South",
+    "employment_type": "Self-Employed"
+  },
+  {
+    "customer_id": 34,
+    "region": "North",
+    "employment_type": null
+  },
+  {
+    "customer_id": 35,
+    "region": "South",
+    "employment_type": "Salaried"
+  },
+  {
+    "customer_id": 36,
+    "region": "North",
+    "employment_type": "Unemployed"
+  },
+  {
+    "customer_id": 37,
+    "region": "West",
+    "employment_type": "Self-Employed"
+  },
+  {
+    "customer_id": 38,
+    "region": "West",
+    "employment_type": "Self-Employed"
+  },
+  {
+    "customer_id": 39,
+    "region": "West",
+    "employment_type": null
+  },
+  {
+    "customer_id": 40,
+    "region": "West",
+    "employment_type": "Self-Employed"
+  },
+  {
+    "customer_id": 41,
+    "region": "South",
+    "employment_type": "Salaried"
+  },
+  {
+    "customer_id": 42,
+    "region": "East",
+    "employment_type": "Self-Employed"
+  },
+  {
+    "customer_id": 43,
+    "region": "East",
+    "employment_type": null
+  },
+  {
+    "customer_id": 44,
+    "region": "North",
+    "employment_type": null
+  },
+  {
+    "customer_id": 45,
+    "region": "East",
+    "employment_type": "Unemployed"
+  },
+  {
+    "customer_id": 46,
+    "region": "East",
+    "employment_type": null
+  },
+  {
+    "customer_id": 47,
+    "region": "North",
+    "employment_type": null
+  },
+  {
+    "customer_id": 48,
+    "region": "West",
+    "employment_type": null
+  },
+  {
+    "customer_id": 49,
+    "region": "West",
+    "employment_type": "Unemployed"
+  },
+  {
+    "customer_id": 50,
+    "region": "West",
+    "employment_type": null
+  }
+]
